@@ -1,0 +1,13 @@
+{
+  "delays": {
+    "channel_creation_seconds": 0.4,
+    "role_creation_seconds": 0.3,
+    "purge_action_seconds": 0.2
+  },
+  "storage": {
+    "backup_dir": "backups"
+  },
+  "logging": {
+    "verbose": true
+  }
+}
